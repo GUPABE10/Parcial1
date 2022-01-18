@@ -1,0 +1,48 @@
+body{
+    background-color: darkslategray;
+    color: white;
+}
+h2{
+    color: red;
+    text-size: 60px;
+}
+
+.imagen{
+    text-align: center;
+}
+
+img{
+    width: 50%;
+    border: 5px;
+    border-style: double;
+}
+
+.text-center{
+    text-align: center;
+}
+
+#cita{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul{
+    font-size: 25px;
+}
+
+.fechas{
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+footer{
+    margin-top: 50px;
+}
+
+a{
+    color: aqua;
+}
+
+#timeline{
+    font-size: 40px;
+}
